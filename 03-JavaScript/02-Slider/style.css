@@ -14,3 +14,6 @@ body {
 h2 {
 	margin-top: 50px;
 }
+.glide__slide img {
+  width: 100%;
+}

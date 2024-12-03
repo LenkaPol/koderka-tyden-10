@@ -1,0 +1,7 @@
+@use "barvy";
+.footer {
+    background-color: barvy.$seda;
+      color: white;
+    padding: 30px;
+    text-align: center;
+  }
